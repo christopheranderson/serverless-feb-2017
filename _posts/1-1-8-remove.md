@@ -1,12 +1,11 @@
 ---
 layout: slide
-title: "Serverless Meetup Feb 2017"
+title: "Remove"
 classes:
 data:
   transition: linear
 ---
 
-### Remove
 
 {% highlight bash %}
 serverless remove

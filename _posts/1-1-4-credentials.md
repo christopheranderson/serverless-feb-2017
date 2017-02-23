@@ -1,12 +1,11 @@
 ---
 layout: slide
-title: "Serverless Meetup Feb 2017"
+title: "Setup credentials"
 classes:
 data:
   transition: linear
 ---
 
-### Setup credentials
 
 {% highlight bash %}
 azure login

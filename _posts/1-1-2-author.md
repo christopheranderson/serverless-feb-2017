@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Serverless Meetup Feb 2017"
+title: "About us"
 classes:
 data:
   transition: fade
