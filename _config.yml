@@ -1,4 +1,4 @@
-timezone:    Europe/Berlin
+timezone:    PST
 future:      false
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
@@ -13,9 +13,9 @@ kramdown:
 #gems:
 #  - jemoji
 
-title:       re:claim your blog engine
-author:      Thomas Friese
-description: Presentation für die rp14
+title:       Azure Functions Serverless Framework Plugin
+author:      Chris Anderson/Pragna Gopa
+description: A quick overview of the new Azure Functions Serverless Framework Plugin
 
 sass:
   style:     :compressed
