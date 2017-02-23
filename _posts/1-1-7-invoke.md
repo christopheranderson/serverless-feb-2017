@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Deploy"
+title: "Invoke"
 classes:
 data:
   transition: linear
